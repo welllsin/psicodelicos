@@ -1,0 +1,78 @@
+.page {
+  background: url(fundos/image.png) repeat-y center top;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 0;
+  width: 815;
+}
+
+.imagem {
+  display: block;
+  text-align: center;
+}
+
+.Texto {
+  color: rgb(116, 54, 54);
+  margin: 0 auto;
+  padding: 0 400px;
+  width: 0 auto;
+}
+
+.Paragrafo1 {
+  color: rgb(245, 1, 1);
+  margin: 0 auto;
+  padding: 0 400px;
+  width: 0 auto;
+}
+
+.sub {
+  color: rgb(208, 255, 0);
+  margin: 0 auto;
+  padding: 0 400px;
+  width: 0 auto;
+}
+
+.Paragrafo2 {
+  color: rgb(63, 8, 114);
+  margin: 0 auto;
+  padding: 0 400px;
+  width: 0 auto;
+}
+
+.Paragrafo3 {
+  color: rgba(211, 36, 235, 0.897);
+  margin: 0 auto;
+  padding: 0 400px;
+  width: 0 auto;
+}
+
+.Paragrafo4 {
+  color: rgb(255, 0, 98);
+  margin: 0 auto;
+  padding: 0 400px;
+  width: 0 auto;
+}
+
+.Paragrafo5 {
+  color: rgb(252, 0, 0);
+  margin: 0 auto;
+  padding: 0 400px;
+  width: 0 auto;
+}
+
+.fotos {
+  width: 500px;
+  height: 300px;
+}
+
+body {
+  background: url(https://i.pinimg.com/564x/83/8c/d6/838cd6e2a27f7887e49d869f1857742c.jpg);
+}
+
+p {
+  background-color: black;
+}
+h1,
+h2 {
+  background-color: rgb(0, 0, 0);
+}
